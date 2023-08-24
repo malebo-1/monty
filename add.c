@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-* addnode - This finction adds node to top of stack
+* addnode - This function adds node to top of stack
 * @head: The first node
 * @n: The new value
 *
